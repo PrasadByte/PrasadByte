@@ -1,3 +1,5 @@
+
+![logo](https://github.com/PrasadByte/PrasadByte/blob/main/Yellow%20And%20Blue%20Modern%20Business%20LinkedIn%20Article%20Cover%20Image.png)
 <h1 align="center">Hi 👋, I'm Prasad Patil</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
