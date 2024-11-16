@@ -25,11 +25,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/prasad-byte/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/prasad-byte/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/prasad.patil.9421" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/prasad.patil.9421" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/prasad_patil.exe/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/prasad_patil.exe/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/@uptodate8834" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@uptodate8834" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/prasadpatila99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/prasadpatila99" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/prasad-byte/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prasad-byte/" height="30" width="40" /></a>
+<a href="https://fb.com/prasad.patil.9421" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="prasad.patil.9421" height="30" width="40" /></a>
+<a href="https://instagram.com/prasad_patil.exe/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prasad_patil.exe/" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/uptodate8834" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uptodate8834" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/prasadpatila99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="prasadpatila99" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
