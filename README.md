@@ -17,7 +17,7 @@
 - 📝 I create content at: [YouTube - UpToDate8834](https://www.youtube.com/@uptodate8834)
 - 💬 Ask me about: **Spring Boot, ReactJS**
 - 📫 Reach me at: **prasadpatila99@gmail.com**
-- 📄 Know more: [My Resume](https://drive.google.com/file/d/1QxaEkd10w-u29xejYOuodfjMSEMODZ04/view?usp=sharing)
+- 📄 Know more: [My Resume](https://drive.google.com/file/d/1W2GELB6yZaaG8B4bZdsRc6O4VKRknVg2/view?usp=sharing)
 - ⚡ Fun fact: **I think I’m funny 😄**
 
 ---
